@@ -3,7 +3,7 @@ My second capstone project for the Thinkful Data Science Immersion program (DSI0
 
 The overall goal of this project is to 
 
-![Image1](https://user-images.githubusercontent.com/10410903/108758885-a0f56100-7519-11eb-8360-d6bf0998c02d.jpeg)
+![Image1](https://user-images.githubusercontent.com/10410903/108773358-3863af80-752c-11eb-8396-534be2a1c050.jpeg)
 
 The principles successfully demonstrated in this project:
  - Explored the datasets, handling null values, and looked into potential data integrity errors.
