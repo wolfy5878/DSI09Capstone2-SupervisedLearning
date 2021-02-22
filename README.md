@@ -1,4 +1,7 @@
 # DSI09Capstone2-SupervisedLearning
+
+THIS REPO IS CURRENTLY A WORK IN PROGRESS.
+
 My second capstone project for the Thinkful Data Science Immersion program (DSI09) to demonstrate my grasp of the material related to Supervised Learning.
 
 The overall goal of this project is to 
